@@ -286,4 +286,42 @@ cursor:pointer;
 
     font-weight:bold;
 
+}.stats{
+
+    padding:80px;
+    text-align:center;
+    background:#F8F9FA;
+
+}
+
+.stats h1{
+
+    color:#081B3A;
+    margin-bottom:50px;
+
+}
+
+.stats-container{
+
+    display:flex;
+    justify-content:center;
+    gap:30px;
+
+}
+
+.stat-box{
+
+    background:white;
+    padding:35px;
+    width:220px;
+    border-radius:10px;
+    box-shadow:0px 5px 15px rgba(0,0,0,0.15);
+
+}
+
+.stat-box h2{
+
+    color:#FFC107;
+    font-size:35px;
+
 }
