@@ -418,4 +418,14 @@ font-size:18px;
 
 border-radius:6px;
 
+}.options{
+
+display:flex;
+
+justify-content:space-between;
+
+margin-top:20px;
+
+font-size:14px;
+
 }
