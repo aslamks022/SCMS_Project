@@ -398,4 +398,24 @@ border:1px solid #ccc;
 
 font-size:16px;
 
+}.login-box button{
+
+width:100%;
+
+padding:15px;
+
+margin-top:25px;
+
+background:#FFC107;
+
+border:none;
+
+font-weight:bold;
+
+cursor:pointer;
+
+font-size:18px;
+
+border-radius:6px;
+
 }
