@@ -81,7 +81,8 @@ nav button{
 
     font-weight:bold;
 
-.hero{
+    }
+    .hero{
 
 height:90vh;
 
@@ -188,6 +189,7 @@ cursor:pointer;
     color:#666;
 
     font-size:18px;
+}
 
 .module-container{
 
@@ -197,7 +199,7 @@ cursor:pointer;
 
     margin-top:50px;
 
-}}.card{
+}.card{
 
     width:300px;
 
@@ -240,5 +242,48 @@ cursor:pointer;
     margin-top:20px;
 
     line-height:28px;
+
+}
+.about{
+
+    background:#081B3A;
+
+    color:white;
+
+    padding:100px;
+
+    text-align:center;
+
+}
+
+.about h1{
+
+    font-size:45px;
+
+}
+
+.about p{
+
+    width:70%;
+
+    margin:auto;
+
+    margin-top:25px;
+
+    line-height:35px;
+
+}
+
+.about button{
+
+    margin-top:35px;
+
+    padding:15px 35px;
+
+    background:#FFC107;
+
+    border:none;
+
+    font-weight:bold;
 
 }
