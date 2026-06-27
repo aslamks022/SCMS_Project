@@ -163,4 +163,30 @@ color:white;
 
 cursor:pointer;
 
-}}
+}.modules{
+
+    text-align:center;
+
+    padding:80px 60px;
+
+    background:#F5F7FA;
+
+}
+
+.modules h1{
+
+    color:#081B3A;
+
+    font-size:40px;
+
+}
+
+.modules p{
+
+    margin-top:15px;
+
+    color:#666;
+
+    font-size:18px;
+
+}
