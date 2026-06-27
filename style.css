@@ -325,3 +325,16 @@ cursor:pointer;
     font-size:35px;
 
 }
+.features{
+
+    padding:80px;
+    text-align:center;
+
+}
+
+.feature{
+
+    margin:25px auto;
+    width:70%;
+
+}
