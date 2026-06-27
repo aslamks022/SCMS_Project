@@ -81,4 +81,86 @@ nav button{
 
     font-weight:bold;
 
+.hero{
+
+height:90vh;
+
+background:url("images/bg.jpg");
+
+background-size:cover;
+
+background-position:center;
+
+display:flex;
+
+align-items:center;
+
+padding-left:80px;
+
 }
+
+.hero-text{
+
+color:white;
+
+width:50%;
+
+}
+
+.hero h1{
+
+font-size:70px;
+
+}
+
+.hero h1 span{
+
+color:#FFC107;
+
+}
+
+.hero p{
+
+font-size:24px;
+
+margin-top:25px;
+
+line-height:40px;
+
+}
+
+.buttons{
+
+margin-top:40px;
+
+}
+
+.btn1{
+
+padding:15px 35px;
+
+background:#FFC107;
+
+border:none;
+
+font-weight:bold;
+
+margin-right:20px;
+
+cursor:pointer;
+
+}
+
+.btn2{
+
+padding:15px 35px;
+
+background:transparent;
+
+border:2px solid white;
+
+color:white;
+
+cursor:pointer;
+
+}}
