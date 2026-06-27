@@ -337,4 +337,23 @@ cursor:pointer;
     margin:25px auto;
     width:70%;
 
+}footer{
+
+    background:#081B3A;
+    color:white;
+    text-align:center;
+    padding:50px;
+
+}
+
+footer p{
+
+    margin-top:15px;
+
+}
+
+footer hr{
+
+    margin:25px 0;
+
 }
