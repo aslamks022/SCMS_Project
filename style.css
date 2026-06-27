@@ -434,4 +434,14 @@ width:90px;
 
 margin-bottom:20px;
 
+}.login-box button:hover{
+
+background:#E0A800;
+
+}
+
+.options a:hover{
+
+color:#FFC107;
+
 }
