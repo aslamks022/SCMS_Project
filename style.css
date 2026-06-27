@@ -189,4 +189,12 @@ cursor:pointer;
 
     font-size:18px;
 
-}
+.module-container{
+
+    display:flex;
+
+    justify-content:center;
+
+    margin-top:50px;
+
+}}
