@@ -692,4 +692,12 @@ transition:.3s;
 
 transform:scale(1.05);
 
+}.food-header{
+
+text-align:center;
+
+padding:60px;
+
+color:white;
+
 }
