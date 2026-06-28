@@ -23,7 +23,8 @@ def welcome():
         print("Username cannot be empty")
     if len(entered_password) == 0:
         print("Password cannot be empty")
-      
+    print("Status:",login_status)
+
 
 
 
