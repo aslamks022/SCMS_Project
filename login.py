@@ -17,7 +17,9 @@ def welcome():
         print("Thank you")
     def retry():
         print("Please try again.")
-    .
+    if len(entered_username) == 0:
+        print("Username cannot be empty")
+        c
 
 
 
