@@ -24,6 +24,8 @@ def welcome():
     if len(entered_password) == 0:
         print("Password cannot be empty")
     print("Status:",login_status)
+    def login():
+        pass
 
 
 
