@@ -8,7 +8,10 @@ if entered_username == username and entered_password == password:
 
 else:
     print("Invalid Usedname or Password")
-
+def welcome():
+    print("Welcome to Smart Campus Management System")
+    def welcome():
+        print("Welcome to Smart Campus Management System")
 
 
 
