@@ -652,4 +652,44 @@ border-radius:12px;
 
 box-shadow:0px 5px 15px rgba(0,0,0,.15);
 
+}.popular-books{
+
+padding:70px;
+
+text-align:center;
+
+}
+
+.popular-container{
+
+display:flex;
+
+justify-content:center;
+
+gap:30px;
+
+margin-top:40px;
+
+}
+
+.popular-card{
+
+width:250px;
+
+background:white;
+
+padding:30px;
+
+border-radius:12px;
+
+box-shadow:0px 5px 15px rgba(0,0,0,.15);
+
+transition:.3s;
+
+}
+
+.popular-card:hover{
+
+transform:scale(1.05);
+
 }
