@@ -576,4 +576,46 @@ th,td{
     border:1px solid #ddd;
     text-align:center;
 
+}.categories{
+
+    padding:70px;
+
+    text-align:center;
+
+}
+
+.category-container{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:25px;
+
+    margin-top:40px;
+
+    flex-wrap:wrap;
+
+}
+
+.category-card{
+
+    width:220px;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:12px;
+
+    box-shadow:0px 5px 15px rgba(0,0,0,.15);
+
+    transition:.3s;
+
+}
+
+.category-card:hover{
+
+    transform:translateY(-8px);
+
 }
