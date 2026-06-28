@@ -488,4 +488,10 @@ transition:.3s;
 
 transform:translateY(-10px);
 
+}.library-header{
+
+    text-align:center;
+    padding:60px;
+    color:white;
+
 }
