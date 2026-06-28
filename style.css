@@ -618,4 +618,38 @@ th,td{
 
     transform:translateY(-8px);
 
+}.recent-books{
+
+padding:70px;
+
+text-align:center;
+
+background:#F8F9FA;
+
+}
+
+.recent-container{
+
+display:flex;
+
+justify-content:center;
+
+gap:30px;
+
+margin-top:40px;
+
+}
+
+.recent-card{
+
+width:250px;
+
+padding:25px;
+
+background:white;
+
+border-radius:12px;
+
+box-shadow:0px 5px 15px rgba(0,0,0,.15);
+
 }
