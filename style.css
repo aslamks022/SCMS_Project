@@ -919,4 +919,36 @@ footer hr{
 
     color:#FFC107;
 
+}.performance{
+
+padding:70px;
+
+text-align:center;
+
+}
+
+.performance-container{
+
+display:flex;
+
+justify-content:center;
+
+gap:30px;
+
+margin-top:40px;
+
+}
+
+.performance-card{
+
+width:220px;
+
+background:white;
+
+padding:30px;
+
+border-radius:12px;
+
+box-shadow:0px 5px 15px rgba(0,0,0,.15);
+
 }
