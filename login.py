@@ -3,6 +3,11 @@ username="admin"
 password="1234"
 entered_username=input("Enter Username:")
 entered_password=input("Enter Password:")
+if entered_username == username and entered_password == password:
+    printf("Login Succesful")
+
+
+
 
 
 
