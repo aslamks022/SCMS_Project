@@ -33,5 +33,8 @@ def search_book():
            add_book()
         elif choice == "2":
             search_book()
-             
+def issue_bool():
+    book = input("Enter Book Name to issue:"
+                 print("Book Issued Succesfully")
+                 
  
