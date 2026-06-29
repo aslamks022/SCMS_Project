@@ -31,5 +31,6 @@ def display_student():
             print("Name:",row[0],"| Status:",row[1])
     elif choice == "4":
         print("Thank you")
+    break
 
 
