@@ -24,6 +24,7 @@ def menu():
         print("Attendance Percentage:",percentage,"%")
     elif choice == "2":
         calculate_attendance()
-            
+def display_student():
+
     
 
