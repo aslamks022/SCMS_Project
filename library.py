@@ -6,5 +6,6 @@ def menu():
     print("3,Issue Book")
     print("4,Return Book")
     print("5,Exit")
+    menu()
 
 
