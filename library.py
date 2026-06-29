@@ -25,5 +25,9 @@ def search_book():
     for row in reader:
         if book == row[0]:
             found = True
-
+        if found:
+            print("Book Found")
+        else:
+            print("Book Not Found")
+        
 
