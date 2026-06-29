@@ -10,6 +10,7 @@ def menu():
     choice = input("Enter your choice:")
     def mark_attendance():
         name = input("Enter Student Name: ")
-    
+    status = input("Enter Attendance(present/Absent): ")
+
     
 
