@@ -11,3 +11,6 @@ def menu():
     print("2.Dosa - 60 rupees")
     print("3.Meals - 100 rupees")
     print("4.Tea - 15 rupees")
+    if choice == "1":
+        display_menu()
+
