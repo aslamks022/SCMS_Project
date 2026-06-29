@@ -20,6 +20,7 @@ def menu():
      calculate_attendance():
         total = int(input("Enter Total Classes: "))
         present = int(input("Enter Clases Attended:"))
-    
+        percentage = (present / total)*100
+
     
 
