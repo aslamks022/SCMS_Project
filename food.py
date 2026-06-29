@@ -21,4 +21,6 @@ def place_order():
         print("Order Placed Successfully")
     elif choice == "2":
         place_order()
-         
+def calculate_bill():
+    quantity = int(input("Enter Qunatity: "))
+
