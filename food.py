@@ -13,4 +13,6 @@ def menu():
     print("4.Tea - 15 rupees")
     if choice == "1":
         display_menu()
+def place_order():
+    item = input("Enter food item: ")
 
