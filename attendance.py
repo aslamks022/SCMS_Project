@@ -17,8 +17,9 @@ def menu():
        print("Attendance Markes Successfully")
     if choice == "1":
         mark_attendance()
-de calculate_attendance():
-    total = int(input("Enter Total Classes: "))
-
+     calculate_attendance():
+        total = int(input("Enter Total Classes: "))
+        present = int(input("Enter Clases Attended:"))
+    
     
 
