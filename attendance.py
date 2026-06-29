@@ -15,6 +15,8 @@ def menu():
         writer = csv.writer(file)
         writer.writerow([name,status])
        print("Attendance Markes Successfully")
-    
+    if choice == "1":
+        mark_attendance()
+
     
 
