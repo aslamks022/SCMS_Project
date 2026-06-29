@@ -34,5 +34,6 @@ def display_student():
     break
     else:
         print("Invalid Choice")
+    print("-------------------------------")
 
 
