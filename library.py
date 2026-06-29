@@ -48,6 +48,9 @@ def return_book():
     print("==== LIBRARY MANAGEMENT SYSTEM ====")
        else:
                  print("Invalid Choice")
+       if book =="":
+                 print("Book Name cannot be Empty")
+                 return
 
 
  
