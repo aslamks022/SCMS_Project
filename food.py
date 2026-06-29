@@ -30,7 +30,8 @@ def calculate_bill():
         calculate_bill()
     elif choice == "4":
         print("Exiting Food Ordering System")
-
+    print("---------------------------")
+        
 
 
 
