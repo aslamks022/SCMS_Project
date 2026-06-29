@@ -36,7 +36,8 @@ def calculate_bill():
         return
     print("Processing your order...")
     print("Thank you for ordering...")
-
+    print("==== FOOD ORDERING SYSTEM ====")
+ 
 
 
 
