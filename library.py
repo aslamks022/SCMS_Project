@@ -37,6 +37,9 @@ def issue_bool():
     book = input("Enter Book Name to issue:"
                  print("Book Issued Succesfully")
        elif choice == "3":
-                 issue_book()
-                 
+            issue_book()
+def return_book():
+                 book = input("Enter Book name return:")
+                
+
  
