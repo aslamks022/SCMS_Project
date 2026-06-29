@@ -10,5 +10,8 @@ def menu():
     choice = input("Enter your choice:")
 def add_book():
     book = input("Enter Book Name:")
+    with open("books.csv","a",newline="") as file:
+        writer = csv.writer(file)
+        writer.writerow([book])
 
 
