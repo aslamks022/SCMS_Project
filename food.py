@@ -35,7 +35,8 @@ def calculate_bill():
         print("Food otem cannot be Empty")
         return
     print("Processing your order...")
-    print("Thank you for ordering")
+    print("Thank you for ordering...")
+
 
 
 
