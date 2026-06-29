@@ -14,5 +14,8 @@ def add_book():
         writer = csv.writer(file)
         writer.writerow([book])
         print("Book Added Successfully")
-
+    choice = input("Enter your choice:")
+    if choice =="1":
+        add_book()
+        
 
