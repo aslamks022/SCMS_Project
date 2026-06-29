@@ -14,6 +14,7 @@ def menu():
     with open("attendance.csv","a",newline="") as file:
         writer = csv.writer(file)
         writer.writerow([name,status])
-        
+       print("Attendance Markes Successfully")
+    
     
 
