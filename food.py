@@ -34,6 +34,7 @@ def calculate_bill():
     if item == "":
         print("Food otem cannot be Empty")
         return
+    print("Processing your order...")
 
 
 
