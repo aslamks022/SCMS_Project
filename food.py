@@ -26,4 +26,6 @@ def calculate_bill():
     price = 100
     total = quantity*price
     print("Total Bill:rupees",total)
+    elif choice == "3":
+        calculate_bill()
 
