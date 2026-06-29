@@ -28,4 +28,9 @@ def calculate_bill():
     print("Total Bill:rupees",total)
     elif choice == "3":
         calculate_bill()
+    elif choice == "4":
+        print("Exiting Food Ordering System")
+
+
+
 
