@@ -6,4 +6,5 @@ def menu():
     print("2.Calculate Attendance")
     print("3.Display Student Details")
     print("4.Exit")
+    menu()
 
