@@ -29,6 +29,7 @@ def display_student():
         reader = csv.reader(file)
         for row in reader:
             print("Name:",row[0],"| Status:",row[1])
+    elif choice == "4":
+        print("Thank you")
 
-    
 
