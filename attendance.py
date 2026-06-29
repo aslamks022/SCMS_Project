@@ -7,4 +7,7 @@ def menu():
     print("3.Display Student Details")
     print("4.Exit")
     menu()
+    choice = input("Enter your choice:")
+
+
 
