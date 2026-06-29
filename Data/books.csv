@@ -1,0 +1,11 @@
+Book_ID,Book_Name,Author,Category,Status
+BK101,Database System,Korth,Programming,Available
+BK102,Python Programming,Mark Lutz,Programming,Issued
+BK103,C Programming,Dennis Ritchie,Programming,Available
+BK104,Operating Systems,Galvin,Programming,Available
+BK105,Computer Networks,Forouzan,Networking,Issued
+BK106,Artificial Intelligence,Stuart Russell,AI,Available
+BK107,Data Structures,Sahni,Programming,Available
+BK108,Digital Electronics,Morris Mano,Electronics,Available
+BK109,Web Development,Ralf Steinmetz,Web,Issued
+BK110,Java Programming,Herbert Schildt,Programming,Available
