@@ -39,6 +39,8 @@ def calculate_bill():
     print("==== FOOD ORDERING SYSTEM ====")
     else:
         print("Invalid Choice")
+    print("Calculating Bill...")
+
 
 
 
