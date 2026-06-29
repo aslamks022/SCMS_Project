@@ -25,4 +25,5 @@ def calculate_bill():
     quantity = int(input("Enter Qunatity: "))
     price = 100
     total = quantity*price
+    print("Total Bill:rupees",total)
 
