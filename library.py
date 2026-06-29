@@ -41,6 +41,8 @@ def issue_bool():
 def return_book():
                  book = input("Enter Book name return:")
                print("Book Returned Succesfully")
+       elif choice == "4":
+                 return_book()
 
 
  
