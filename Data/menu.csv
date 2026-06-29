@@ -1,0 +1,11 @@
+Item_ID,Food_Name,Category,Price
+FD101,Pizza,Fast Food,180
+FD102,Burger,Fast Food,120
+FD103,Sandwich,Snacks,100
+FD104,Coffee,Beverage,50
+FD105,Tea,Beverage,30
+FD106,French Fries,Snacks,90
+FD107,Veg Biryani,Main Course,160
+FD108,Paneer Wrap,Main Course,140
+FD109,Cold Coffee,Beverage,80
+FD110,Chocolate Shake,Beverage,120
