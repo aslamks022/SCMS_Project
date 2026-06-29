@@ -17,5 +17,6 @@ def place_order():
     item = input("Enter food item: ")
     with open("menu.csv","a",newline="") as file:
         writer = csv.writer(file)
-        writer>writerow([item])
-
+        writer.writerow([item])
+        print("Order Placed Successfully")
+    
