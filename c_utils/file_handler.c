@@ -11,3 +11,4 @@ void write_marks(char usn[], float marks[], int n) {
     fprintf(fp, "%s ", usn);
     for(int i = 0; i < n; i++) {
         fprintf(fp, "%.2f ", marks[i]);
+    }
