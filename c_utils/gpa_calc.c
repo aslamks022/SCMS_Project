@@ -2,3 +2,4 @@
 #include <stdlib.h>
 
 // GPA Calculator for Student Performance
+int main() {
