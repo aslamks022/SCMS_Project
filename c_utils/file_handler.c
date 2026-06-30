@@ -6,3 +6,4 @@ void write_marks(char usn[], float marks[], int n) {
     fp = fopen("marks.txt", "a");
     if(fp == NULL) {
         printf("Error opening file");
+        return;
