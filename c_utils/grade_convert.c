@@ -17,3 +17,4 @@ char get_grade(float score) {
     else if(score >= 50) {
         return 'D';
     }
+    else {
