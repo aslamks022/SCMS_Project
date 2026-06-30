@@ -7,3 +7,4 @@ analytics_bp = Blueprint('analytics', __name__)
 def get_avg_gpa():
     # Calculate average GPA from DB
     return jsonify({'avg_gpa': 8.2, 'status': 'success'})
+
