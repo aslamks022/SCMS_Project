@@ -11,3 +11,4 @@ int main() {
     printf("Enter number of subjects: ");
     scanf("%d", &n);
 
+    printf("Enter marks: \n");
