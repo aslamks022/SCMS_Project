@@ -10,3 +10,4 @@ int main() {
 
     printf("Enter number of subjects: ");
     scanf("%d", &n);
+
