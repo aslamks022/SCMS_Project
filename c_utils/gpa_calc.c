@@ -16,3 +16,4 @@ int main() {
         printf("Subject %d: ", i+1);
         scanf("%f", &marks[i]);
     }
+
