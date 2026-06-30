@@ -27,3 +27,4 @@ int main() {
     printf("GPA: %.2f\n", gpa);
 
     return 0;
+}
