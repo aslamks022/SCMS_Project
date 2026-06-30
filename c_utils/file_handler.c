@@ -15,3 +15,4 @@ void write_marks(char usn[], float marks[], int n) {
     fprintf(fp, "\n");
     fclose(fp);
 }
+
