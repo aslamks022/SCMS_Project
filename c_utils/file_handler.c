@@ -9,3 +9,4 @@ void write_marks(char usn[], float marks[], int n) {
         return;
     }
     fprintf(fp, "%s ", usn);
+    for(int i = 0; i < n; i++) {
