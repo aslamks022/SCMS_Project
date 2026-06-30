@@ -22,3 +22,4 @@ char get_grade(float score) {
     }
 }
 
+int main(){ printf("%c", get_grade(85.5)); return 0; }
