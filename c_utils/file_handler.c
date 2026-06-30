@@ -20,3 +20,4 @@ void read_marks() {
     FILE *fp = fopen("marks.txt", "r");
     char line[256];
     while(fgets(line, sizeof(line), fp)) {
+        printf("%s", line);
