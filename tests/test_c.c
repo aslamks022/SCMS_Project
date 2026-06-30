@@ -7,3 +7,4 @@ void test_grade_s() {
 }
 void test_grade_f() {
     assert(get_grade(45.0) == 'F');
+}
