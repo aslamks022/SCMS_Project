@@ -21,3 +21,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     fclose(fp);
     printf("Report generated: report.txt\n");
 }
+
