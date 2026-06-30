@@ -7,3 +7,4 @@ void write_marks(char usn[], float marks[], int n) {
     if(fp == NULL) {
         printf("Error opening file");
         return;
+    }
