@@ -8,3 +8,4 @@ int main() {
     float sum = 0.0;
     float gpa;
 
+    printf("Enter number of subjects: ");
