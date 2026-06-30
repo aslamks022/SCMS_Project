@@ -2,3 +2,4 @@
 #include <string.h>
 
 void write_marks(char usn[], float marks[], int n) {
+    FILE *fp;
