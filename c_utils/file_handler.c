@@ -8,3 +8,4 @@ void write_marks(char usn[], float marks[], int n) {
         printf("Error opening file");
         return;
     }
+    fprintf(fp, "%s ", usn);
