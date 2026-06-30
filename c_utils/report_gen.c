@@ -19,3 +19,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     fprintf(fp, "Grade: %c\n", gpa>=9?'S':gpa>=8?'A':'B');
     fprintf(fp, "============================\n");
     fclose(fp);
+    printf("Report generated: report.txt\n");
