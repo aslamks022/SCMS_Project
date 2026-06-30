@@ -9,3 +9,4 @@ int main() {
     float gpa;
 
     printf("Enter number of subjects: ");
+    scanf("%d", &n);
