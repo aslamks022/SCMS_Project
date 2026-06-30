@@ -8,3 +8,4 @@ char get_grade(float score) {
     else if(score >= 80) {
         return 'A';
     }
+    else if(score >= 70) {
