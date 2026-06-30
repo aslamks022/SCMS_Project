@@ -12,3 +12,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     fprintf(fp, "============================\n");
     fprintf(fp, "   STUDENT REPORT CARD\n");
     fprintf(fp, "============================\n");
+    fprintf(fp, "Date: %s", ctime(&t));
