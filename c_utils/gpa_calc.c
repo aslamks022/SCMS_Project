@@ -22,3 +22,4 @@ int main() {
     }
 
     gpa = (sum / n) / 10;
+    printf("Total Marks: %.2f\n", sum);
