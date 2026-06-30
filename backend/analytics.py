@@ -12,3 +12,4 @@ def get_avg_gpa():
 def get_trends():
     data = {'months': ['Jan','Feb','Mar'], 'gpa': [7.8,8.1,8.3]}
     return jsonify(data)
+
