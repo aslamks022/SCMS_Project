@@ -16,3 +16,4 @@ void write_marks(char usn[], float marks[], int n) {
     fclose(fp);
 }
 
+void read_marks() {
