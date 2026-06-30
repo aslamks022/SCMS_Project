@@ -6,3 +6,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     time_t t;
     time(&t);
 
+    fp = fopen("report.txt", "w");
