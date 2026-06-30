@@ -4,3 +4,4 @@ import sqlite3
 analytics_bp = Blueprint('analytics', __name__)
 
 @analytics_bp.route('/api/analytics/avg-gpa', methods=['GET'])
+def get_avg_gpa():
