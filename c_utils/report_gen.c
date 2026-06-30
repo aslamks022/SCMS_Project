@@ -8,3 +8,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
 
     fp = fopen("report.txt", "w");
     if(fp == NULL) return;
+
