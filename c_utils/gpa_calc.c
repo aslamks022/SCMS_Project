@@ -17,3 +17,4 @@ int main() {
         scanf("%f", &marks[i]);
     }
 
+    for(int i = 0; i < n; i++) {
