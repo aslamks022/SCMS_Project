@@ -4,3 +4,4 @@ char get_grade(float score) {
     // Convert score to grade
     if(score >= 90) {
         return 'S';
+    }
