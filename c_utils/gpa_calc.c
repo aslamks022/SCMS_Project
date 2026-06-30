@@ -4,3 +4,4 @@
 // GPA Calculator for Student Performance
 int main() {
     int n;
+    float marks[50];
