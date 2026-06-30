@@ -4,3 +4,4 @@ CFLAGS = -Wall -g
 all: gpa_calc grade_convert file_handler report_gen
 
 gpa_calc: gpa_calc.c
+	  -o gpa_calc gpa_calc.c
