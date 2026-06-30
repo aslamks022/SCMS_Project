@@ -20,3 +20,4 @@ char get_grade(float score) {
     else {
         return 'F';
     }
+}
