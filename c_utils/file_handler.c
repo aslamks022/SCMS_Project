@@ -22,3 +22,4 @@ void read_marks() {
     while(fgets(line, sizeof(line), fp)) {
         printf("%s", line);
     }
+    fclose(fp); }
