@@ -26,3 +26,4 @@ int main() {
     printf("Percentage: %.2f%%\n", sum/n);
     printf("GPA: %.2f\n", gpa);
 
+    return 0;
