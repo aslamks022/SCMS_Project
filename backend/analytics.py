@@ -11,3 +11,4 @@ def get_avg_gpa():
 @analytics_bp.route('/api/analytics/trends', methods=['GET'])
 def get_trends():
     data = {'months': ['Jan','Feb','Mar'], 'gpa': [7.8,8.1,8.3]}
+    return jsonify(data)
