@@ -22,3 +22,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     printf("Report generated: report.txt\n");
 }
 
+int main(){ generate_student_report("Test User", "1CR21CS001", 8.75); }
