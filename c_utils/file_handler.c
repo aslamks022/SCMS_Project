@@ -21,3 +21,4 @@ void read_marks() {
     char line[256];
     while(fgets(line, sizeof(line), fp)) {
         printf("%s", line);
+    }
