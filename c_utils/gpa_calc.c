@@ -6,3 +6,4 @@ int main() {
     int n;
     float marks[50];
     float sum = 0.0;
+    float gpa;
