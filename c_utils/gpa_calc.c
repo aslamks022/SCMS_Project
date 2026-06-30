@@ -15,3 +15,4 @@ int main() {
     for(int i = 0; i < n; i++) {
         printf("Subject %d: ", i+1);
         scanf("%f", &marks[i]);
+    }
