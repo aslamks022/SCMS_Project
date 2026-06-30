@@ -5,3 +5,4 @@
 void test_grade_s() {
     assert(get_grade(95.0) == 'S');
 }
+void test_grade_f() {
