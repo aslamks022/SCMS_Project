@@ -21,3 +21,4 @@ char get_grade(float score) {
         return 'F';
     }
 }
+
