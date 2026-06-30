@@ -15,3 +15,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     fprintf(fp, "Date: %s", ctime(&t));
     fprintf(fp, "Name: %s\n", name);
     fprintf(fp, "USN: %s\n", usn);
+    fprintf(fp, "GPA: %.2f\n", gpa);
