@@ -21,3 +21,4 @@ int main() {
         sum += marks[i];
     }
 
+    gpa = (sum / n) / 10;
