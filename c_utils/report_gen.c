@@ -10,3 +10,4 @@ void generate_student_report(char name[], char usn[], float gpa) {
     if(fp == NULL) return;
 
     fprintf(fp, "============================\n");
+    fprintf(fp, "   STUDENT REPORT CARD\n");
